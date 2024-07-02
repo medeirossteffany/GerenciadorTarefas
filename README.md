@@ -9,11 +9,6 @@ Este é um sistema simples de gerenciamento de tarefas desenvolvido em Java. O s
 - **Remover Tarefas**: Facilita a remoção de tarefas que não são mais necessárias.
 - **Visualizar Tarefas**: Sempre exibe a lista atualizada de tarefas após qualquer operação, mostrando o título, descrição e nível de importância. Se não houver tarefas, uma mensagem "Lista vazia" será exibida.
 
-## Dependências
-
-- **Java SE 8 ou superior**: Linguagem de programação utilizada.
-- **IDE Java**: Recomenda-se o uso de uma IDE como IntelliJ IDEA ou Eclipse para facilitar o desenvolvimento e a execução do código.
-
 ## Estrutura do Projeto
 
 O projeto está organizado em várias classes, cada uma responsável por uma funcionalidade específica:
